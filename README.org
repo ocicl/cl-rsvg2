@@ -1,0 +1,10 @@
+* cl-rsvg2
+
+Common Lisp binding to the RSVG Library for rendering SVGs onto Cairo surfaces (fork of cl-rsvg)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/roerd/cl-rsvg2.git   |
+| commit  | 8fc4cf2  |
+| systems | cl-rsvg2 |
+|---------+-------------------------------------------|
+
